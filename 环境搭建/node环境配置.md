@@ -24,6 +24,11 @@ Cascadia Code 是微软专门为开发者设计的字体
 ### 搭建属于自己的博客
 
 
+![](https://raw.githubusercontent.com/youtubhexo/obsition-images-zhangwangyan/main/20250711151843.png)
+
+要有广告和统计的功能
+
+
 ### 安装Git
 
 
