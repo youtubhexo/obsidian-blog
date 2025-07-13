@@ -16,6 +16,7 @@ Nginx是一款轻量级的Web服务器 反向代理服务器  及电子邮件代
 1) web服务器软件 httpd(apache) 同类型web服务器软件：apache、nginx(俄罗斯)、iis(微软)、lighttpd(德国) 
 2) 提供了IMAP/POP3/SMTP服务 
 3) 充当反向代理服务器，实现负载均衡功能。LB=>Load Blance
+![](https://raw.githubusercontent.com/youtubhexo/obsition-images-zhangwangyan/main/20250713082626.png)
 
 
 
